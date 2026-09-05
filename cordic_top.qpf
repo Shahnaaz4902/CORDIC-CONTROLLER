@@ -1,0 +1,6 @@
+QUARTUS_VERSION = "21.1"
+DATE = "00:00:00  January 01, 2025"
+
+# Revisions
+
+PROJECT_REVISION = "cordic_top"
